@@ -34,4 +34,4 @@
 | --- | --- | --- | ---  | --- |
 | Full-Stack Web Development with React | React, Bootstrap4, NodeJS, Express, MongoDB | 12 weeks | The Hong Kong University of Science and Technology | https://coursera.org/share/94a2644a7c4650291d01fd08f48b8ac6
 | Full Stack Web Development with Angular |  Angular, Bootstrap4, NodeJS, Express, MongoDB | 12 weeks | The Hong Kong University of Science and Technology | https://coursera.org/share/4323b9bc58d9aa316ab1690709e6e881 |
-| Full Stack Web Development with Angular |  Angular, Bootstrap4, NodeJS, Express, MongoDB | 12 weeks | The Hong Kong University of Science and Technology | https://coursera.org/share/4323b9bc58d9aa316ab1690709e6e881 |
+| JavaScript for Beginners |  Javascript, JQuery | 16 weeks | University of California, Davis |https://coursera.org/share/58f758bf8aa3a6b774cd9ec66aaec3d4|
