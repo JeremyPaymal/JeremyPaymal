@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jérémy Paymal</h1>
 <h3 align="center">A passionate Junior Frontend Developer from France living in Montréal</h3>
 
-- 🔭 I’m currently looking for **a job as a Junior Front end developer**
-
-- 👨‍💻 All of my projects are available at [https://jp-project.com/](https://jp-project.com/)
-
 - 📫 How to reach me **jeremy.paymal@gmail.com**
 
 - ⚡ Fun fact **I'm also interested in Cybersecurity**
